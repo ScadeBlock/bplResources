@@ -78,7 +78,7 @@
         height: 100%;
         position: fixed;
         z-index: -1;
-        background-image: url(/static/img/bg1.jpg);
+        background-image: url(https://rawcdn.githack.com/ScadeBlock/bplResources/71e83d40566033ce1d9ed85698bf02797661aa5b/static/img/bg1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         filter: blur(3px);
@@ -133,3 +133,4 @@
     .suform{
         margin: auto;
     }
+
